@@ -1,1 +1,21 @@
-
+## 📄 assets/site_data.json
+```json
+[
+  {
+    "id": "site1",
+    "name": "M4 Toll",
+    "description": "Main M4 point",
+    "lat": -33.8731,
+    "lng": 151.2006,
+    "imageUrl": "https://example.com/image1.jpg"
+  },
+  {
+    "id": "site2",
+    "name": "LCT Tunnel",
+    "description": "Lane Cove Tunnel",
+    "lat": -33.8165,
+    "lng": 151.1725,
+    "imageUrl": "https://example.com/image2.jpg"
+  }
+]
+```
